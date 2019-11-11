@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475181595965",
+    "firebase_url": "https://chatbox-12b29.firebaseio.com",
+    "project_id": "chatbox-12b29",
+    "storage_bucket": "chatbox-12b29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475181595965:android:f44fb99e96ff7ed7d31954",
+        "android_client_info": {
+          "package_name": "com.swin.edu.au.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475181595965-6fviio8actg236nd0tlg576ep7q9mgca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swin.edu.au.chatbox",
+            "certificate_hash": "6bf1da5d62afe67f37057d6989d2ae47fdbfd91f"
+          }
+        },
+        {
+          "client_id": "475181595965-et4g4lrm45k892pbv50vmel3raq6fo5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIweO5AE5u_0KMtBE-aBkQpBYMOGpv7xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475181595965-et4g4lrm45k892pbv50vmel3raq6fo5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
